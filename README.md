@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pawanbhatta178
-- 👀 I’m interested in creating ML web apps.
+- Hi, I’m Pawan
+- I’m interested in creating ML web apps. 
 
 <!---
 pawanbhatta178/pawanbhatta178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
